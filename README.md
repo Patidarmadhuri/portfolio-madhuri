@@ -9,7 +9,7 @@
 ---
 
 ## 🌐 Live Website
-👉 [https://your-username.github.io/](https://my-portfolio-site-lyart-pi.vercel.app/)
+👉 [https://my-portfolio-site-lyart-pi.vercel.app/](https://my-portfolio-site-lyart-pi.vercel.app/)
 
 ---
 
